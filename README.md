@@ -70,5 +70,4 @@ GPA: 3.89 / 4.0 · First Class Honours
 
 ## 📬 Contact
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/meshal-hadhrawi)
-&nbsp; [linkedin.com/in/meshal-hadhrawi](https://www.linkedin.com/in/meshal-hadhrawi)
+[linkedin.com/in/meshal-hadhrawi](https://www.linkedin.com/in/meshal-hadhrawi)
