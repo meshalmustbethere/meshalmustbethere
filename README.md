@@ -1,18 +1,74 @@
-<h1 align="center">Hi 👋, I'm Meshal the Analyst</h1>
-<h3 align="center">Computer Scientist</h3>
+# Meshal Hadhrawi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meshalmustbethere&label=Profile%20views&color=0e75b6&style=flat" alt="meshalmustbethere" /> </p>
+**Senior Cyber Threat Intelligence Analyst · Computer Scientist · Builder**
+📍 Riyadh, Saudi Arabia
 
-- 💬 Ask me about **Cyber Security - CTI**
+Computer scientist and cyber threat intelligence professional with 4+ years of experience
+on the front lines of adversary tracking, incident response, and strategic threat communication.
+Actively exploring how AI and probabilistic reasoning can reshape the way we do threat analysis.
 
-- ⚡ Fun fact **N/A**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/meshal-hadhrawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meshal-hadhrawi" height="30" width="40" /></a>
-</p>
+## 🦅 What I'm Building
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### [BARRAQ — Cyber Threat Intelligence Dashboard](https://github.com/meshalmustbethere/barraq-cti-dashboard)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meshalmustbethere&show_icons=true&locale=en&layout=compact" alt="meshalmustbethere" /></p>
+An open-source, full-stack CTI platform designed for the MENA region. BARRAQ aggregates
+intelligence from multiple RSS threat feeds and processes each article through an automated
+enrichment pipeline, producing analyst-grade output with minimal manual intervention.
+
+**Capabilities**
+- Automated MITRE ATT&CK tactic and technique mapping
+- IOC extraction — IPs, domains, file hashes, CVEs
+- MENA country and sector attribution (30+ countries)
+- Sentiment classification — Bearish / Bullish / Neutral
+- Multi-signal actionability scoring
+- Integrations in progress: MISP · VirusTotal · OTX
+
+**Stack:** Node.js · Express.js · MongoDB · Vanilla JS · Docker
+
+---
+
+## 🔍 What I Do
+
+- **Adversary infrastructure hunting** — proactively tracking threat actors before attacks materialise
+- **Incident response** — leading end-to-end investigations from declaration through to closure
+- **Strategic threat reporting** — translating technical intelligence into clear, actionable output for both technical and executive audiences
+- **CTI engineering** — building tooling that automates enrichment, IOC analysis, and MITRE ATT&CK mapping
+- **Cybersecurity awareness** — delivered sessions across multiple organisations for both technical teams and general staff
+
+---
+
+## 🎓 Education
+
+**MSc Artificial Intelligence** *(Pursuing)*
+Applied focus: using LLMs and generative AI to advance threat intelligence workflows —
+automated analysis, natural language querying of threat databases, AI-assisted threat actor profiling.
+
+**BSc Computer Science** — Taif University *(2017 – 2022)*
+GPA: 3.89 / 4.0 · First Class Honours
+
+---
+
+## 🛠️ Technical Skills
+
+| Domain | Technologies |
+|---|---|
+| Languages | JavaScript · Python · C++ |
+| Backend | Node.js · Express.js · MongoDB · Mongoose |
+| Security | JWT · bcrypt · Helmet.js · NoSQL sanitisation |
+| DevOps | Docker · Docker Compose · Linux |
+| Tools | Git · Postman · Kibana · Pino |
+
+---
+
+## 📊 GitHub Statistics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meshalmustbethere&show_icons=true&locale=en&layout=compact)
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/meshal-hadhrawi)
+&nbsp; [linkedin.com/in/meshal-hadhrawi](https://www.linkedin.com/in/meshal-hadhrawi)
